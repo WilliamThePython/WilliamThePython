@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WilliamThePython
 - 👀 Im interested in radical software that shakes up conventions.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Python based finance tools (3commas type trading software).
+- 🌱 I’m currently converting my old legacy projects into GitHub friendly repositories.
+- 💞️ I’m not necessarily looking for any collaborative work, but feel free to contact me.
 - 📫 Reach me through this account or my email williamaojones@gmail.com
 
 <!---
